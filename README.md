@@ -11,3 +11,6 @@ quick start:
 5. wait paitently, the game will launch and start doing stuff (its starting the server)
 
 6. Join on your other computer or steam acount (not tested)
+
+
+(tested with 4k moniter)
